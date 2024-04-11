@@ -31,7 +31,9 @@ A: There is no guarantee of stability. It is greatly appreciated to report all b
 
 A: There is no guarantee that the mod is compatible with any specific mod, addon, or server's custom client. It is greatly appreciated to document everything that is compatible or not compatible with the mod in the bugtracker.
 
+
 - Q: Is this mod allowed by X server? Will it get cought by anti-cheat?
+  
 A: The mod makes no attempt at hiding itself from Warden, any server can easily ban for it if they choose to do so. Use at your own discretion.
 
 # Instructions
