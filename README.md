@@ -37,7 +37,7 @@ A: There is no guarantee that the mod is compatible with any specific mod, addon
 - Run SuperWoWlauncher.exe to play the game
 
 # Documentation
-Work in progress
+https://github.com/balakethelock/SuperWoW/wiki
 
 # Copyright © 2024 Balake. All rights reserved.
 
