@@ -38,3 +38,20 @@ A: There is no guarantee that the mod is compatible with any specific mod, addon
 
 # Documentation
 Work in progress
+
+# Copyright © 2024 Balake. All rights reserved.
+
+This program is licensed for personal use only. Commercial
+use, distribution, modification, or any form of exploitation
+for profit is strictly prohibited without the express written
+permission of the copyright holder.
+
+World of Warcarft is the intellectual property of Blizzard
+Entertainment, Inc. This mod is not affiliated with or
+endorsed by Blizzard Entertainment in any way.
+
+This mod is created and distributed under the principles of
+fair use, including commentary, criticism, and transformative
+use for personal enjoyment and educational purposes.
+
+This mod is provided "as is," without warranty of any kind.
