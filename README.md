@@ -29,7 +29,7 @@ A: There is no guarantee of stability. It is greatly appreciated to report all b
 
 - Q: Will this mod work with X mod / addon / server
 
-A: There is no guarantee that the mod is compatible with any specific mod, addon, or server's custom client. It is greatly appreciated to document everything that is compatible or not compatible with the mod in the bugtracker.
+A: There is no guarantee that the mod is compatible with any specific mod, addon, or server's custom client. [It is greatly appreciated to document everything that is compatible or not compatible with the mod in the bugtracker](https://github.com/balakethelock/SuperWoW/wiki/Compability-with-other-mods).
 
 
 - Q: Is this mod allowed by X server? Will it get cought by anti-cheat?
