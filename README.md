@@ -37,7 +37,7 @@ A: There is no guarantee that the mod is compatible with any specific mod, addon
 A: The mod makes no attempt at hiding itself from Warden, any server can easily ban for it if they choose to do so. Use at your own discretion.
 
 # Instructions
-- Download and place SuperWoWhook.dll and SuperWoWlauncher.exe in your game directory, in the same folder that contains the WoW.exe file. If your game's client executable is not named exactly "WoW.exe", you have to create a copy of it and name that new file WoW.exe
+- Download the [release](https://github.com/balakethelock/SuperWoW/releases/tag/Release), unzip and place SuperWoWhook.dll and SuperWoWlauncher.exe in your game directory, in the same folder that contains the WoW.exe file. If your game's client executable is not named exactly "WoW.exe", you have to create a copy of it and name that new file WoW.exe
 - Download the [compability addon](https://github.com/balakethelock/SuperAPI) and its modules from their corresponding repositories and install them as you would typical addons, in Interface\Addons folder making sure to remove the "-master" suffix appended by github.
 - Run SuperWoWlauncher.exe to play the game
 
