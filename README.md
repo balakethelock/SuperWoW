@@ -39,6 +39,7 @@ A: The mod makes no attempt at hiding itself from Warden, any server can easily 
 # Instructions
 - Download the [release](https://github.com/balakethelock/SuperWoW/releases/tag/Release), unzip and place SuperWoWhook.dll and SuperWoWlauncher.exe in your game directory, in the same folder that contains the WoW.exe file. If your game's client executable is not named exactly "WoW.exe", you have to create a copy of it and name that new file WoW.exe
 - Download the [compability addon](https://github.com/balakethelock/SuperAPI) and its modules from their corresponding repositories and install them as you would typical addons, in Interface\Addons folder making sure to remove the "-master" suffix appended by github.
+- If you want to use the [custom Selection Circle styles](https://github.com/balakethelock/SuperWoW/wiki/Changelog#14042024--110:~:text=Added%20SelectionCircleStyle%20CVar), you will need to grab the textures for it from [here](https://github.com/balakethelock/SuperWoW/releases/tag/Patch) 
 - Run SuperWoWlauncher.exe to play the game
 
 # Documentation
