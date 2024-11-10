@@ -45,6 +45,16 @@ A: The mod makes no attempt at hiding itself from Warden, any server can easily 
 # Documentation
 https://github.com/balakethelock/SuperWoW/wiki
 
+# Troubleshooting
+
+- VanillaFixes fails to start with SuperWoW (Windows)
+
+    1) Go to Control Panel > System and Security > System > Advanced system settings. Under Performance, click Settings, then the Data Execution Prevention tab.
+
+    2) Select Turn on DEP for all programs and services except those I select, and add WoW.exe to the list. (Remember to remove this later if it doesn’t help you.)
+
+    Thanks to Orfc for figuring this out.
+
 # Copyright © 2024 Balake. All rights reserved.
 
 This program is licensed for personal use only. Commercial
