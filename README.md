@@ -54,7 +54,7 @@ https://github.com/balakethelock/SuperWoW/wiki
     2) Select Turn on DEP for all programs and services except those I select, and add WoW.exe to the list. (Remember to remove this later if it doesn’t help you.)
 
 
-# Copyright © 2024 Balake. All rights reserved.
+# Copyright © 2024-2025 Balake. All rights reserved.
 
 This program is licensed for personal use only. Commercial
 use, distribution, modification, or any form of exploitation
@@ -65,8 +65,12 @@ World of Warcarft is the intellectual property of Blizzard
 Entertainment, Inc. This mod is not affiliated with or
 endorsed by Blizzard Entertainment in any way.
 
+This mod is not associated with or designed for any private
+server or unauthorized service.
+
 This mod is created and distributed under the principles of
-fair use, including commentary, criticism, and transformative
-use for personal enjoyment and educational purposes.
+fair use as defined in 17 U.S.C. § 107, including commentary,
+criticism, and transformative use for personal enjoyment and
+educational purposes.
 
 This mod is provided "as is," without warranty of any kind.
