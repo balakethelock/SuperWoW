@@ -1,9 +1,13 @@
 # Announcement:
 This mod is not dead, I'm merely going through financial difficulties as a full time student and can't fix my PC to continue working on it.
-If you would like to support this passion project, I deeply appreciate all donations at https://ko-fi.com/balakesuperwow
+If you would like to support this passion project, I deeply appreciate all donations
 
-[<img width="646" height="250" alt="image" src="https://github.com/user-attachments/assets/a1dc435c-78b9-4be3-bd8b-f37c843193d9" />
-](https://www.paypal.com/ncp/payment/Q5UDJS7QLLAKA)
+#### Crypto Donation: Please confirm matching networks or the crypto could be irreversibly lost.
+
+<img width="114" height="113" alt="image" src="https://github.com/user-attachments/assets/26c45c3d-30dc-4323-8a90-c23e52f01dee" /> USDT TRC20 address THPMANDidAY7DVSKde7ywySBjiTTdQGHbz
+
+<img width="112" height="112" alt="image" src="https://github.com/user-attachments/assets/1e977de5-7563-4ca7-b178-a9fa5175991b" /> USDT BEP20 address 0xcddbf67e7df486f4be1d5e52a760dae531c67abd
+
 
 # SuperWoW
 SuperWoW is a launcher/mod made for the 1.12.1 version of World of Warcraft with the purpose of fixing client bugs and expanding the lua-based API used by user interface addons.
