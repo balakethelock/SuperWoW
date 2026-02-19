@@ -3,6 +3,7 @@ This mod is not dead, I'm merely going through financial difficulties as a full 
 If you would like to support this passion project, I deeply appreciate all donations
 
 #### Crypto Donation: Please confirm matching networks or the crypto could be irreversibly lost.
+Binance ID: 1217858812
 
 <img width="114" height="113" alt="image" src="https://github.com/user-attachments/assets/26c45c3d-30dc-4323-8a90-c23e52f01dee" /> USDT TRC20 address THPMANDidAY7DVSKde7ywySBjiTTdQGHbz
 
