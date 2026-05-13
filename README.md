@@ -1,5 +1,4 @@
 # Announcement:
-This mod is not dead, I'm merely going through financial difficulties as a full time student and can't fix my PC to continue working on it.
 If you would like to support this passion project, I deeply appreciate all donations
 
 #### Crypto Donation: Please confirm matching networks or the crypto could be irreversibly lost.
