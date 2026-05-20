@@ -64,6 +64,8 @@ https://github.com/balakethelock/SuperWoW/wiki
 
     2) Select Turn on DEP for all programs and services except those I select, and add WoW.exe to the list. (Remember to remove this later if it doesn’t help you.)
 
+- If a multi-monitor setup makes the 1.12.1 client list resolutions from the wrong display, see `tools/README.md` for a launcher-side helper that writes the Windows primary display's `gxResolution` and `gxRefresh` values to `WTF\Config.wtf` before launch.
+
 
 # Copyright © 2024-2025 Balake. All rights reserved.
 
