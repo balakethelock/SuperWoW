@@ -1,6 +1,8 @@
 # Announcement:
 If you would like to support this passion project, I deeply appreciate all donations
 
+#### Ko-Fi page in which I also post updates: https://ko-fi.com/balakesuperwow
+
 #### Crypto Donation: Please confirm matching networks or the crypto could be irreversibly lost.
 Binance ID: 1217858812
 
