@@ -1,4 +1,6 @@
 # Announcement:
+#### SuperWoW now has a [discord server](discord.gg/2DagyuU9WD)! Join the community for technical support, suggestions, and to talk about World of Warcraft with fellow fans
+
 If you would like to support this passion project, I deeply appreciate all donations
 
 #### Ko-Fi page in which I also post updates: https://ko-fi.com/balakesuperwow
